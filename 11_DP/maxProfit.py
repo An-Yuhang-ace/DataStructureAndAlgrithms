@@ -1,3 +1,5 @@
+# https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/
+
 def maxProfit(a):
     ans = 0
     if len(a) == 0:
