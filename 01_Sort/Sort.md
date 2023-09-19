@@ -1,6 +1,8 @@
 # 排序
 
 参考：[排序总结](https://leetcode.cn/problems/sort-an-array/solutions/179489/fu-xi-ji-chu-pai-xu-suan-fa-java-by-liweiwei1419/)
+![Alt text](./picture/image.png)
+![Alt text](./picture/image-1.png)
 
 ## 基础排序
 
