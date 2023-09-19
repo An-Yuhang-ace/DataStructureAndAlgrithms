@@ -17,5 +17,5 @@
 10. [二分算法(BinarySearch)](./10_BinarySearch/BinarySearch.md)
 11. [动态规划(DP)](./11_DP/DP.md)
 12. [贪心算法(Greedy)](./12_Greedy/Greedy.md)
-13. [回溯算法(BackTracking)](./13_BackTracking/BackTracking.mdd)
+13. [回溯算法(BackTracking)](./13_BackTracking/BackTracking.md)
 14. [图算法(Graph)](./14_Graph/Graph.md)
