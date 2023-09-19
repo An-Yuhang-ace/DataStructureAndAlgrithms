@@ -20,6 +20,6 @@ O(n^2)三幻神：
 
 ## 堆
 
-1. 堆排序：[heapSort](./heapSort.py) 
-2. 最小堆/优先队列：[优先队列](./heapq.ipynb)
-3. 练习题：[滑动窗口最大值](./slidingWindowMax.py)
+1. 堆排序：[heapSort](./heap/heapSort.py) 
+2. 最小堆/优先队列：[优先队列](./heap/heapq.ipynb)
+3. 练习题：[滑动窗口最大值](./heap/slidingWindowMax.py)

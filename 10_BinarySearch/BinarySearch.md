@@ -1,5 +1,8 @@
 # 二分法
 
+## 标准二分
+[binarySearch](./binary.py)
+
 ## 例题
 
 1. [路灯最大间距(DiDi笔试真题)](example_didi.py)  
