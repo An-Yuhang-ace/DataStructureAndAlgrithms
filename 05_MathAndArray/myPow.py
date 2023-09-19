@@ -1,3 +1,5 @@
+# https://leetcode.cn/problems/powx-n/
+
 def myPow(x, n):
     if x == 0.0:
         return 0.0

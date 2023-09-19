@@ -1,3 +1,5 @@
+# https://leetcode.cn/problems/valid-parentheses/
+
 def isValid(s):
     stack = []
     for char in s:

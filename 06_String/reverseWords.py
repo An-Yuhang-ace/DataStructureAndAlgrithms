@@ -1,4 +1,4 @@
-import sys
+# https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/
 
 def reverseWords(s):
     ans = ""
@@ -22,8 +22,3 @@ def reverseWords(s):
 if __name__ == "__main__":
     s = "a good   example"
     print(reverseWords(s))
-
-
-    for line in sys.stdin:
-        a = [int(s) for s in line.split()]
-        print(sum(a))
