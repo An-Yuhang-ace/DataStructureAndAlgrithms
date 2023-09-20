@@ -7,7 +7,7 @@
 
 1. [排序算法(Sort)](./01_Sort/Sort.md)
 2. [链表(LinkedList)](./02_LinkedList/LinkedList.md)
-3. [哈希(Hash)](./03_Hash/Hash.md)
+3. [哈希(Hash)](./03_Hash/Hash.ipynb)
 4. [双指针(DoublePointers)](./04_DoublePointers/DoublePointers.md)
 5. [数学/数组(MathAndArray)](./05_MathAndArray/MathAndArray.md)
 6. [字符串(String)](./06_String/String.ipynb)
