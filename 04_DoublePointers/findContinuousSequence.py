@@ -1,3 +1,5 @@
+# https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
+
 def findContinuousSequence(target):
     ans = []
     i, j = 1, 2
