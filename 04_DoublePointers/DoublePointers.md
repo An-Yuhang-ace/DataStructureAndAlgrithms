@@ -29,10 +29,10 @@
 1. [和为s的两个数字](./twoSumInSortArray.py)  
    https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/description/
 
-2. [三数之和](./threeSum.py)  
+2. [三数之和](./threeSum.py)   
    https://leetcode.cn/problems/3sum/
 
-3. [接雨水(ZiJie必考)]()
+3. [接雨水(ZiJie必考)]()  
    https://leetcode.cn/problems/trapping-rain-water/
 
 ## 编号指针
@@ -41,7 +41,7 @@
 典型的是快排的交互。  
 
 ### 例题
-1. [调整奇偶数]()
+1. [调整奇偶数]()  
    https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/
 
 ## 快慢指针
@@ -49,7 +49,7 @@
 该方法常常用于，判断是否陷入无限循环，寻找中间或者几分之处的点。使用时，要注意判断结束条件，避免空指针等问题。
 
 ### 例题
-1. [环形链表]()
+1. [环形链表]()  
    https://leetcode.cn/problems/linked-list-cycle-ii/
 
 ## 中心扩展指针
