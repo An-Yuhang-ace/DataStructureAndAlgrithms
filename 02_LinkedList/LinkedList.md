@@ -22,3 +22,22 @@ https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/
 ## 哨兵技巧
 设置一个哑对象L.nil，代表null，替换链表中的null，位置放置于表头，表尾之间。
 使得代码简洁，但要注意短链表造成的存储空间浪费。
+
+## 单链表练习题
+1. [k个一组翻转链表]()
+   https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
+
+2. [复杂链表的深拷贝]()
+   https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof/
+
+## 双向链表
+1. [LRU缓存]()
+   https://leetcode.cn/problems/lru-cache/
+
+## 合并链表练习题
+1. [合并有序链表(链表形式归并)]()
+   https://leetcode.cn/problems/merge-two-sorted-lists/
+
+2. [合并k个有序链表]()
+   https://leetcode-cn.com/problems/merge-k-sorted-lists/
+   
