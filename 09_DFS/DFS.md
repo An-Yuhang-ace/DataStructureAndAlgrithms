@@ -3,3 +3,9 @@
 ## 例题
 1. [岛屿数量1](./numIsland.py)   
    https://leetcode.cn/problems/number-of-islands/
+
+2. [岛屿周长]()
+   https://leetcode.cn/problems/island-perimeter/
+
+3. [岛屿最大面积]()
+   https://leetcode.cn/problems/max-area-of-island/
