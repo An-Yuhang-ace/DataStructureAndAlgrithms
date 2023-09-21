@@ -47,7 +47,7 @@
    https://leetcode.cn/problems/count-number-of-texts/
 
 4. [木板金字塔(MT笔试题)](./boardPyramid.py)  
-   给定n个木板，第个木板的长宽分别是$l_i$, $w_i$，木板可以已金字塔的方式垒加(下层的长宽都要>=上层)  
+   给定n个木板，第个木板的长宽分别是 $l_i$, $w_i$, 木板可以已金字塔的方式垒加(下层的长宽都要>=上层)  
    求n个木板所能垒出金字塔的最高高度    
 
 5. [股票系列1](./maxProfit.py)  
