@@ -15,7 +15,7 @@
 对于没有思路的题，多思考，看能不能发现规律，如果是贪心，一旦想明白就会发现很简单
 
 ## 例题
-1. [red回文串]()  
+1. [red回文串(baidu笔试真题)]()  
    ![image](https://github.com/An-Yuhang-ace/DataStructureAndAlgrithms/assets/34471199/5f6a1af1-8681-4456-94e4-30f9584e2ac4)
    > 示例  
    > 输入 3  
