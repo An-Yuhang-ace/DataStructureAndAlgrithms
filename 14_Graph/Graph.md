@@ -5,24 +5,24 @@
 ### Dijkstra算法
 适用于没有负边的图  
 基于贪心的思想，通过n次循环来确定n个点到七点的距离  
-![image](https://github.com/An-Yuhang-ace/DataStructureAndAlgrithms/assets/34471199/af145eb0-2af1-4c06-b7d4-2fa7a4c58d20)
+![image](./picture/dijk1.png)
 
 Dijkstra算法可以进行堆优化  
 每次找到一个确定一个点后，每次更新都选剩下为确定点中dist最小的结点去更新，直到所有结点都确定。  
 这里通过一个优先队列来找到当前距离起点最短且没有确定最短路的那个点。  
-![image](https://github.com/An-Yuhang-ace/DataStructureAndAlgrithms/assets/34471199/07eebd6c-9c84-4851-9f3c-b3d3bc0740ca)
+![image](./picture/dijk2.png)
 
 
 ### 例题
 
-1. [dijk例题(elm笔试)](./example_elm.py)
-  ![饿了么笔试题](./example/example_elm.png)
-  ![饿了么笔试题](./example/example_elm_2.png)
+1. [dijk例题(elm笔试)](./dijk_elm.py)
+  ![饿了么笔试题](./picture/example_elm.png)
+  ![饿了么笔试题](./picture/example_elm_2.png)
   思路：  
   每次都要从美食街出发，去往某个学校送餐  
   美食街为源节点，求每个学校的单源最短路，因此使用djikstra算法
 
-3. DiDi例题  
+2. [didi笔试](./dijk_didi.py)  
    给定一个n×m的棋盘，棋盘有黑色和白色两种格子，黑色用1标记，白色用0标记  
    一个agent，从棋盘的(1,1)位置出发，走到棋盘(n,m)位置，可以上下左右任意移动  
    请问，该agent途径的黑格的数量最小是多少。
