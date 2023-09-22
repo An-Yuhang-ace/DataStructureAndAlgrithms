@@ -21,7 +21,7 @@
 
 ## 例题
 1. [组合数量](./combine.py)  
-   https://leetcode.cn/problems/combinations/\
+   https://leetcode.cn/problems/combinations/
 
 2. [单词搜索](./wordSearch.py)  
    https://leetcode.cn/problems/word-search/
