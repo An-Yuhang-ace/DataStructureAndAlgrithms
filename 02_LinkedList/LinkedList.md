@@ -24,19 +24,19 @@ https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/
 使得代码简洁，但要注意短链表造成的存储空间浪费。
 
 ## 单链表练习题
-1. [k个一组翻转链表](./reverseNodesKGroup.py)  
+1. [TODO k个一组翻转链表](./reverseNodesKGroup.py)  
    https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
 
-2. [复杂链表的深拷贝](./deepCopyList.py)  
+2. [TODO 复杂链表的深拷贝](./deepCopyList.py)  
    https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof/
 
 ## 合并链表练习题
-1. [合并有序链表(链表形式归并)](./mergerTwoSortLists.py)  
+1. [TODO 合并有序链表(链表形式归并)](./mergerTwoSortLists.py)  
    https://leetcode.cn/problems/merge-two-sorted-lists/
 
-2. [合并k个有序链表](./mergeKSortLists.py)  
+2. [TODO 合并k个有序链表](./mergeKSortLists.py)  
    https://leetcode-cn.com/problems/merge-k-sorted-lists/
    
 ## 双向链表
-1. [LRU缓存](./LRUCache.py)  
+1. [TODO LRU缓存](./LRUCache.py)  
    https://leetcode.cn/problems/lru-cache/
