@@ -31,5 +31,5 @@
 参考：[组合问题如何去重？](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247494732&idx=2&sn=170bb0436e891920ddb5e71710de84ca&chksm=f9a1df1dced6560b1ec005dfa91c3b0b5e83ba827e1c11b66e33056f09ec11a063cf5ca2ec01&scene=178&cur_album_id=1485825793120387074#rd)
 
 ## 例题
-1. [组合数量2(去重)](./combineSum2.py)
+1. [组合数量2(去重)](./combineSum2.py)  
    https://leetcode.cn/problems/combination-sum-ii/
