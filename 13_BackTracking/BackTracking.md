@@ -17,11 +17,14 @@
 - 递归终止条件
 - 单层搜索逻辑
 
-![Alt text](image.png)
+![Alt text](./picture/image.png)
 
 ## 例题
 1. [组合数量](./combine.py)  
-   https://leetcode.cn/problems/combinations/
+   https://leetcode.cn/problems/combinations/\
+
+2. [单词搜索](./wordSearch.py)  
+   https://leetcode.cn/problems/word-search/
 
 ## 重复剪枝的回溯问题
 
