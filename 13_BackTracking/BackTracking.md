@@ -35,4 +35,31 @@
 
 ## 例题
 1. [组合数量2(去重)](./combineSum2.py)  
-   https://leetcode.cn/problems/combination-sum-ii/
+   https://leetcode.cn/problems/combination-sum-ii/  
+   去重条件：  
+   candidates = [1,1,2,5,6,7,10], target = 8  
+   组合首先加入第二个1的时候，不能再加入第一个1，否则就会重复  
+   因此，去重条件为：  
+   > if i > 0 and a[i] == a[i-1] and i > index: continue
+
+2. [字符串排列](./permutation.py)  
+   https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof/  
+   思路：  
+   和全排列的区别就是从数字换成了字符串，关键在于要进行去重操作  
+   去重条件：
+   s = ['aab']   
+   组合内已有一个a的时候，后面的a便不在进入回溯，否则就会重复  
+   因此，去重条件为：  
+   > if i > 0 and s[i] == s[i-1] and not used[i-1]: continue
+
+   优化思路：  
+   - 时间复杂度：O(n*n!)，每个排列长度n，需要O(n)生成，共有n!个排列
+   - 空间复杂度：O(n)，需要O(n)的栈空间来进行回溯  
+   可以进行空间复杂度优化，避免栈空间的使用，达到常数空间复杂度O(1)，参考下一道例题
+
+3. [下一个排列](./nextPermutation.py)  
+   https://leetcode.cn/problems/next-permutation/  
+   思路：  
+   若当前排列不是最大排列，我们要让排列变大，且变大的尽可能小
+   ![Alt text](./picture/image-1.png)
+   ![Alt text](./picture/image-2.png)
