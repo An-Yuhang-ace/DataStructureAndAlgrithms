@@ -17,7 +17,7 @@
 
 1. [first二分/last二分](./firstBinarySearch)  
    https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/
-   ![image](https://github.com/An-Yuhang-ace/DataStructureAndAlgrithms/assets/34471199/7fce5f84-df1d-4a05-916d-7abeafd54bb8)
+   ![image](./picture/binary_analysis.png)
 
    
 3. [路灯最大间距(DiDi笔试真题)](example_didi.py)  
